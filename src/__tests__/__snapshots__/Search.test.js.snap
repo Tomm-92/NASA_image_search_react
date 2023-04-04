@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search renders correctly 1`] = `
+<DocumentFragment>
+  <input
+    class="search-form"
+    placeholder="Search for an image..."
+    type="text"
+  />
+</DocumentFragment>
+`;
