@@ -1,0 +1,29 @@
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    margin-top: 30px;
+  }
+  .return-images {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+  }
+  .no-results {
+    font-size: larger;
+  }
+
+  p {
+    color:#D92906;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Trispace', sans-serif;
+    font-weight: bold;
+
+  }
