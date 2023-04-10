@@ -2,6 +2,8 @@
 
 A react based web app which allows the user to access a NASA API and return images of space relating to their inputted search term.
 
+Access a live version here: https://nasa-api-imagesearch.netlify.app
+
 ## Test Requirements
 
 I was asked to build a React web application that allows users to search for images based on a query relating to space. The NASA API endpoint for was provided for the image search.
