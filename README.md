@@ -7,6 +7,7 @@ A react based web app which allows the user to access a NASA API and return imag
 I was asked to build a React web application that allows users to search for images based on a query relating to space. The NASA API endpoint for was provided for the image search.
 
 The following functionalities had to be implemented:
+
 - A Search page which allows users to search for images by keyword
 - Images must be returned upon a successful search
 
@@ -14,7 +15,6 @@ The following functionalities had to be implemented:
 
 ![My Image](/public/Successful_search.png)
 ![My Image](/public/Unsuccessful_search.png)
-
 
 ## Technologies & Concepts Covered
 
@@ -31,32 +31,33 @@ The following functionalities had to be implemented:
 
 1 - Clone the repository to your local machine
 
-   ```cli
-   git clone https://github.com/Tomm-92/techTest.git
-   ```
-   
+```cli
+git clone https://github.com/Tomm-92/techTest.git
+```
+
 2 - Navigate to the project directory
 
-   ```cli
-   cd techTest
-   ```
+```cli
+cd techTest
+```
+
 3 - Install the project dependencies
 
-   ```cli
-   npm install
-   ```
+```cli
+npm install
+```
 
 4 - Start the application
 
-   ```cli
-   npm start
-   ```
+```cli
+npm start
+```
 
-5 - View the application in the browser: 
-   
-   ```cli
-   http://localhost:3000/
-   ```
+5 - View the application in the browser:
+
+```cli
+http://localhost:3000/
+```
 
 ## Application Dependencies
 
@@ -71,7 +72,6 @@ The following functionalities had to be implemented:
             "web-vitals": "^2.1.4"
         },
 
-## Author 
+## Author
 
 Tom Wilkinson - https://github.com/Tomm-92
-
