@@ -74,6 +74,10 @@ http://localhost:3000/
             "web-vitals": "^2.1.4"
         },
 
+## Future Improvements
+
+To update the image alt text in Search Results with the data returned from the API as opposed to the current generic 'space image' tag being used. The corresponding test will also need to be updated.
+
 ## Author
 
 Tom Wilkinson - https://github.com/Tomm-92

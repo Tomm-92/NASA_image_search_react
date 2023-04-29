@@ -1,5 +1,5 @@
 .search-input {
-  width: 30%;
+  min-width: 30%;
   height: 30px;
   font-size: 20px;
   border: 1px solid black;
@@ -10,15 +10,12 @@
 
 .search-form {
   display: flex;
-  flex-direction: row;
   justify-content: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .search-form__submit-button {
-  margin: 0;
-  float: left;
-  width: 5%;
-  background: white;
   font-size: 20px;
   border: 1px solid black;
   border-left: none;

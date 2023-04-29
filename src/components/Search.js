@@ -11,19 +11,17 @@ const Search = ({ setSearchResults }) => {
   };
 
   return (
-    <>
-      <form className="search-form" onSubmit={handleSubmit}>
-        <input
-          className="search-input"
-          type="text"
-          placeholder="Search for an image..."
-          onChange={(e) => setValue(e.target.value)}
-        />
-        <button type="submit" className="search-form__submit-button">
-          Go!
-        </button>
-      </form>
-    </>
+    <form className="search-form" onSubmit={handleSubmit}>
+      <input
+        className="search-input"
+        type="text"
+        placeholder="Search for an image..."
+        onChange={(e) => setValue(e.target.value)}
+      />
+      <button type="submit" className="search-form__submit-button">
+        Go!
+      </button>
+    </form>
   );
 };
 

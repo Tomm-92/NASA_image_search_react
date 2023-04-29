@@ -1,5 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Search Results renders correctly 1`] = `<DocumentFragment />`;
-
-exports[`Search Results renders with results 1`] = `<DocumentFragment />`;
+exports[`Search Results renders correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+       No results
+    </h3>
+    <p>
+       Please try another search 
+    </p>
+  </div>
+</DocumentFragment>
+`;

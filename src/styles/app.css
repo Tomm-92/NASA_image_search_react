@@ -4,7 +4,6 @@
 }
 
 .logo {
-  margin: auto;
-  width: 500px;
-  height: 300px;
+  margin: 0 auto;
+  max-width: 500px;
 }
